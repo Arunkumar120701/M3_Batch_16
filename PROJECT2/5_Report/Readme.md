@@ -148,10 +148,9 @@
 
 
 
-# Test Plan and Output
 
 
-# Testplan
+# # Test Plan and Output
 
 -----------------------------------------------------------------------------------------------
 | Test ID  |    Description                   | Expected output | Actual output | Type of test |
