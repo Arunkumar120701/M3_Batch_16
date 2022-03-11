@@ -39,3 +39,35 @@
 ## THREATS:
 
 > RKE system introduces many threats like key fob cloning, jamming, & so on.
+
+
+
+# 5W's and 1H
+
+## WHAT
+
+* The term remote keyless system (RKS), also called keyless entry or remote control locking, refers to a lock that uses an electronic remote control as a key which is activated by a handheld device.
+
+## WHY
+
+* When within a few yards of the car pressing a button on the remote can lock or unlock the doors, and may perform other functions.
+
+## WHERE
+
+* It is used in automobiles like cars etc.
+
+## When
+
+* In automobiles when to lock or unlock the doors and others functions.
+
+## WHO
+
+* It will be used by the owner of the automobiles.
+
+## HOW
+
+1. When we press the blue button once all four leds should ON that indicate car door is locked.
+
+2. When we press the blue button twice all four leds should Of that indicate cae door is unlocked.
+
+3. When we press the blue button thrice all four leds should ON in clockwise manner which indicate alarm activate/deactivate. 4. When we press the blue button four times all four leds should ON in anticlockwise manner which indicate approach fight.
