@@ -98,3 +98,38 @@
 ||LLR_02|All led shall get turned on in clockwise manner|
 |HLR_04|LLR_01|System shall print message "Approach Light"|              
 ||LLR_02|All led shall get turned on in anti-clockwise manner|
+
+
+
+
+# Advantages :-
+
+1.Convenience
+
+ - No more, do you have to fumble around or juggle with inserting your key and a handful of groceries or children. With a key fob, the brush of a hand will open doors, the wave of a foot under the rear bumper will lift boot lids, and pushing the ignition button will start your drive.
+
+ 
+
+2.Better Security
+
+ - The latest systems require a unique code for unlocking the car, making it harder to steal. The system involves electronic key fob recognition through a specific code authorization.  Only if the car computer finds that particular code, will the vehicle be unlocked or started. Certain car brands use computer-encrypted microchips in their keyless system enhancing the security layers further.
+
+ 
+
+3.Automatic Locking
+
+ - Although, locking your car should come as second nature, very often, that niggling thought “have I locked the car?” does make you walk back just to be sure. Now, the keyless system saves you that trouble, because after the car is parked and you have walked a certain distance away, the car automatically locks itself. However, should you leave, forgetting the key fob in the car, the vehicle will stay unlocked. This of course ensures that you are not locked out of your car.
+
+
+
+# Disadvantages :-
+
+1.Cost of Replacement
+
+ - Replacing a lost fob costs much more than a traditional key. Moreover, electronic components wear out over time, which then means replacement of either the key or system repair. This is a pretty hefty price to pay just to unlock your car.
+
+ 
+
+2.Chances of theft
+
+ - The layers of security in a keyless system are strong, but hackers are constantly developing newer ways to steal cars. Key programming tools are easily available both online and off, and in the wrong hands, one could reprogram a blank fob to your car’s transponder, thus compromising security.
