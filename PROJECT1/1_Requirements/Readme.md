@@ -1,3 +1,6 @@
+# BICOM_SYSTEM
+
+
 # INTRODUCTION 
 
 This BiCom system is the extention of the unidirectional RKE to bidirectional RKE system. Here the bi-directional communication takes place in between the keyfob and the car. As we have seen the unidirectional in Remote Keyless Entry(RKE), now in BiCom system we will witness bi-directionaL. Information from keyfob to car viceversa. The status of the car will also be displayed on the keyfob by LED or display.
@@ -26,3 +29,29 @@ Description Keyless remotes contain a short-range radio transmitter, and must be
 * if present, the key fob recognizes the signal and responds with a UHF (ultra-high frequency) signal, transmitting a code to be authenticated by the base unit encryption firmware, such as Microchip Technology's Keylock.
 
 * Remote keyless entry systems, now fairly commonplace devices, provide car owners with a degree of convenience, making the task of physically inserting a key unnecessary.
+
+
+
+# HIGH LEVEL REQUIREMENTS
+
+| ID | HIGH LEVEL REQUIREMENTS |
+| ---- | --------- |
+| HLR 1 | It shall print THE STATUS OF THE WINDOW IN THE CAR |
+| HLR 2 | It shall print THE STATUS OF ALARM IN THE CAR |
+| HLR 3 | It shall print THE STATUS OF DOOR IN CAR |
+| HLR 4 | It shall print THE STATUS OF BATTERY IN CAR |
+
+# LOW LEVEL REQUIREMENTS 
+| ID | LOW LEVEL REQUIREMENTS |
+| ---- | --- |
+| LLR_01 | If the user presses the value the blue botton one time, all led should be turn on |
+| LLR_02 | System shall print message WINDOW STATUS |
+| LLR_03 | if the user presses the blue button two times, all led should turn off |
+| LLR_04 | system shall print message ALARM STATUS |
+| LLR_05 | If the user presses the blue button three times , all led should rotate in clockwise direction |
+| LLR_06 | system shall print message CAR BATTERY STATUS |
+| LLR_07 | If the user presses the blue button four times, all led should rotate in anti-clockwise direction |
+| LLR_08 | System shall print message DOOR STATUS |
+
+
+
