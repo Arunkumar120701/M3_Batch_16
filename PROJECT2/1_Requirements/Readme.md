@@ -70,6 +70,31 @@
 
 2. When we press the blue button twice all four leds should Of that indicate cae door is unlocked.
 
+
 3. When we press the blue button thrice all four leds should ON in clockwise manner which indicate alarm activate/deactivate.
 
 4. When we press the blue button four times all four leds should ON in anticlockwise manner which indicate approach fight.
+
+
+## High Level Requirements
+|ID|Description|
+|------|------|
+|HLR_01|RKE key fob shall send signal to the car ECU|
+|HLR_02|Car shall get locked on pressing blue switch once|
+|HLR_03|Car shall get unlocked on pressing blue switch twice|
+|HLR_04|Car alarm shall get activated/deactivated on pressing blue switch thrice|
+|HLR_05|Car Approach Light shall get activated on pressing blue switch four times|
+
+## Low Level Requirements
+|ID|ID|Description|
+|------|------|------|
+|HLR_01|LLR_01|Key shall be in detectable range of the car|
+||LLR_02|Key Battery must be charged|
+|HLR_02|LLR_01|System shall print message "Lock"|       
+||LLR_02|All LED lights shall get turned on at the same time|
+|HLR_03|LLR_01|System shall print message "Unlock"|              
+||LLR_02|All LED lights shall get turned off at the same time|
+|HLR_04|LLR_01|System shall print message "Alarm Activated/Deactivated"|              
+||LLR_02|All led shall get turned on in clockwise manner|
+|HLR_04|LLR_01|System shall print message "Approach Light"|              
+||LLR_02|All led shall get turned on in anti-clockwise manner|
