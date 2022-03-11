@@ -53,5 +53,26 @@ Description Keyless remotes contain a short-range radio transmitter, and must be
 | LLR_07 | If the user presses the blue button four times, all led should rotate in anti-clockwise direction |
 | LLR_08 | System shall print message DOOR STATUS |
 
+# SWOT ANALYSIS 
+## Strengths:
+
+### No need of human interaction with car Status with different features is provided. "Easy usage of features with a user press button.
+
+## Weaknesses:
+
+### Limited Usage Range Less security to our system Interrupts or Timers would be good instead of delay so system works faster.
+
+## Opportunities:
+
+### Wide scope in field of automobiles Cost Efficient Car features are tremendous which in ases car value.
+
+## Threat:
+
+### Less accurate time we should wait until completing one task to complete another task
+
+# 4W's AND 1H
+
+
+
 
 
