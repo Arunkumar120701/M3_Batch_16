@@ -70,4 +70,6 @@
 
 2. When we press the blue button twice all four leds should Of that indicate cae door is unlocked.
 
-3. When we press the blue button thrice all four leds should ON in clockwise manner which indicate alarm activate/deactivate. 4. When we press the blue button four times all four leds should ON in anticlockwise manner which indicate approach fight.
+3. When we press the blue button thrice all four leds should ON in clockwise manner which indicate alarm activate/deactivate.
+
+4. When we press the blue button four times all four leds should ON in anticlockwise manner which indicate approach fight.
