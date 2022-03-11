@@ -22,16 +22,6 @@ Description Keyless remotes contain a short-range radio transmitter, and must be
 >  It shall display battery information of car for Three User Button Clicks.
 
 
-# APPLICATIONS
-
-* Bi-directional communication makes this possible. When the door handle is pulled (or some similar trigger is activated) the base unit located within the vehicle emits a short range, low frequency signal- polling for a nearby key fob transponder.
-
-* if present, the key fob recognizes the signal and responds with a UHF (ultra-high frequency) signal, transmitting a code to be authenticated by the base unit encryption firmware, such as Microchip Technology's Keylock.
-
-* Remote keyless entry systems, now fairly commonplace devices, provide car owners with a degree of convenience, making the task of physically inserting a key unnecessary.
-
-
-
 # HIGH LEVEL REQUIREMENTS
 
 | ID | HIGH LEVEL REQUIREMENTS |
@@ -102,6 +92,21 @@ Description Keyless remotes contain a short-range radio transmitter, and must be
 
 * The controller chip in any modern controller uses something called a hopping code or a rolling code to provide security. 
 • For example, it describes a system that uses a 48-bit rolling code. Forty bits provide 240 (about 1 trillion) possible codes. 
+
+
+# APPLICATIONS
+
+* Bi-directional communication makes this possible. When the door handle is pulled (or some similar trigger is activated) the base unit located within the vehicle emits a short range, low frequency signal- polling for a nearby key fob transponder.
+
+* if present, the key fob recognizes the signal and responds with a UHF (ultra-high frequency) signal, transmitting a code to be authenticated by the base unit encryption firmware, such as Microchip Technology's Keylock.
+
+* Remote keyless entry systems, now fairly commonplace devices, provide car owners with a degree of convenience, making the task of physically inserting a key unnecessary.
+
+* Added convenience in opening and closing windows, sliding roofs, sliding doors and tailgates.
+
+* An “emergency button” is integrated into the key for enhanced security.
+
+* It triggers an acoustical and visual alarm from the vehicle at the push of a button.
 
 
 
