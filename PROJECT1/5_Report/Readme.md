@@ -92,12 +92,13 @@ Description Keyless remotes contain a short-range radio transmitter, and must be
 
 * The controller chip in any modern controller uses something called a hopping code or a rolling code to provide security. 
 • For example, it describes a system that uses a 48-bit rolling code. Forty bits provide 240 (about 1 trillion) possible codes. 
+# Behavioural Diagrams
 
-## HIGH LEVEL
+## HIGH LEVEL DIAGRAM
 
 ![bicom](https://user-images.githubusercontent.com/71341236/157865720-ead06092-fda8-4652-ab60-48a9bb0dceb0.PNG)
 
-## LOW LEVEL 
+## LOW LEVEL DIAGRAM
 
 ![bicom 2](https://user-images.githubusercontent.com/71341236/157865776-e96a57cb-2111-4eac-ba71-992c7a4e687c.PNG)
 
