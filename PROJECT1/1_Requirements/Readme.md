@@ -70,7 +70,38 @@ Description Keyless remotes contain a short-range radio transmitter, and must be
 
 ### Less accurate time we should wait until completing one task to complete another task
 
-# 4W's AND 1H
+# 5W's AND 1H
+
+
+## *WHAT*
+
+* BiCom System for Car is a system that uses a 40-bit rolling code that creats an encryption in between the key and car (transmitter and recever).
+
+## *WHO*
+
+* Any person who is having car that is able to use this type of tecnology.
+
+## *WHERE*
+
+• Inside and Outside car
+
+* At particular range for instance 50 to 60 feet far from the vehicle.
+
+## *WHEN*
+
+* When we need to lock, unlock doors and identify car
+
+* when we need to check the status of the door, alarm, car battery and window.
+
+## *WHY*
+
+* Better Security - Traditional keys are easy to lose, can be copied easily, and are simply outdated when it comes to modern security locks. 
+• BiCam System systems require every authorized user to have a unique credential that provides then access to the building.
+
+## *HOW*
+
+* The controller chip in any modern controller uses something called a hopping code or a rolling code to provide security. 
+• For example, it describes a system that uses a 48-bit rolling code. Forty bits provide 240 (about 1 trillion) possible codes.
 
 
 
