@@ -22,7 +22,7 @@
 | 5w's and 1H | Arun and Indrajith |
 | SWOT analysis | Indrajith  and prakash |
 | High and Low level requirements |  Indrajith |
-| Applications | Prakash and Arun | 
+| Applications |  Arun and Prakash | 
 | Block diagrams |  prakash | 
 | Behavioural diagrams | Arun and Indrajith |
 |Structural diagrams |  Indrajith and prakash | 
