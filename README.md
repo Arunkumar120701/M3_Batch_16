@@ -1,7 +1,7 @@
 # M3_Batch_16
 
 ## PROJECT DONE BY  
-|Name | PS nuumber |
+|PS Number | Name |
 | ---- |  -----    |
 | 99007650 | Pandiri Bhanu Prakash |
 | 99007651 | Karthick Vignesh R |
