@@ -1,3 +1,7 @@
+
+# Remote Keyless Entry
+------------------
+
 # Description
 
 • Remote Keyless entry systems allow you to unlock and lock the doors to your vehicle without using a key. It is an electronic access system that can be controlled from a distance. RKEs, which are typically used to remotely lock or unlock doors, require the end user to initiate an action that will cause a physical or software key fob to transmit a radio signal to a receiver that controls an electronic lock.
@@ -149,16 +153,16 @@
 
 
 
-
-# # Test Plan and Output
+# Testplan
 
 -----------------------------------------------------------------------------------------------
-| Test ID  |    Description                   | Expected output | Actual output | Type of test |
-|-------|--------------------------|------------|-----------|-------|
-|  H_01    | Door Lock |     ALL LEDs On at same time    |    ALL Leds on at same time    |   Technical  |
-|-------|--------------------------|------------|-----------|-------|
-|  H_02    | Door Unlock |      ALL Leds off at same time   |   ALL Leds off at same time    |   Technical  |
-|-------|--------------------------|------------|-----------|-------|
-|  H_03    | Alarm ACtivation/Deactivation|ALL Leds On in clockwise manner| ALL Leds On in clockwise manner  |   Technical  |
-|-------|--------------------------|------------|-----------|-------|
-|  H_04    | Car Approach Light |ALL Leds On in anticlockwise manner| ALL Leds On in anticlockwise manner |   Technical  |
+| Test ID  |    Description                   | Expected output | Actual output | Type of test |  Passed or Not|
+|-------|--------------------------|------------|-----------|-------|-----|
+|  HL_01    | Door Lock |     ALL LEDs On at same time    |    ALL Leds on at same time    |   Technical  | ✅ |
+|-------|--------------------------|------------|-----------|-------|-----|
+|  HL_02    | Door Unlock |      ALL Leds off at same time   |   ALL Leds off at same time    |   Technical  | ✅ |
+|-------|--------------------------|------------|-----------|-------|-----|
+|  HL_03    | Alarm ACtivation/Deactivation|ALL Leds On in clockwise manner| ALL Leds On in clockwise manner  |   Technical  | ✅ |
+|-------|--------------------------|------------|-----------|-------|-----|
+|  HL_04    | Car Approach Light |ALL Leds On in anticlockwise manner| ALL Leds On in anticlockwise manner |   Technical  | ✅ |
+
